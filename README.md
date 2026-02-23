@@ -2,7 +2,7 @@
 
 A clean, responsive web application that interacts with external APIs to fetch real-time developer data. It demonstrates core modern web development skills, including asynchronous JavaScript, API integration, and JSON data parsing.
 
-**Live Demo:** [Click here to view the live project](https://lPrincel.github.io/github-fetcher/)
+**Live Demo:** [Click here to view the live project](https://lprincel.github.io/GitHub-Fetcher/)
 
 ## Features
 * **Real-Time API Integration:** Communicates seamlessly with the public GitHub REST API.
@@ -18,6 +18,6 @@ A clean, responsive web application that interacts with external APIs to fetch r
 
 ## How to Run Locally
 1. Clone this repository to your local machine:
-   `git clone https://github.com/lPrincel/github-fetcher.git`
+   `git clone https://github.com/lPrincel/GitHub-Fetcher.git`
 2. Open the folder in your preferred code editor (e.g., VS Code).
 3. Double-click the `index.html` file to open it directly in your web browser. No local server required.
